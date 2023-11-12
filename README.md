@@ -2,20 +2,24 @@
 
 ---
 
-В соответствии с условиями задания сделан fork репозитория https://github.com/aragastmatb/example-teamcity
-Дальнейшая работа проведена в репозитории https://github.com/vmmaltsev/example-teamcity.git
+# В соответствии с условиями задания сделан fork репозитория https://github.com/aragastmatb/example-teamcity
+# Дальнейшая работа проведена в репозитории https://github.com/vmmaltsev/example-teamcity.git
 
-Создан jetbrains/teamcity-server, который доступен по ссылке http://158.160.106.182:8111/
+# Создан jetbrains/teamcity-server, который доступен по ссылке http://158.160.106.182:8111/
 
 ![teamcity-server](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_48.png)
 
-Создан jetbrains/teamcity-agent, проведена авторизация агента на jetbrains/teamcity-server
+# Создан jetbrains/teamcity-agent, проведена авторизация агента на jetbrains/teamcity-server
 
 ![teamcity-agent](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_49.png)
 
 ![teamcity-agent](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_50.png)
 
 ![teamcity-agent](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_51.png)
+
+# Создан nexus репозиторий с помощью Ansible
+
+![teamcity-agent](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_52.png)
 
 
 1. Создайте новый проект в teamcity на основе fork.
